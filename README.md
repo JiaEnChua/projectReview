@@ -10,4 +10,4 @@ Campgrounds show page
 Post and comment assiociate to user account
 Edit and delete personal's post/comment 
 
-Technology - Node.js, Mongoose, Passport, Auth, Express
+Technology - Node.js, MongoDB, PassportJS, Authentification, ExpressJS
